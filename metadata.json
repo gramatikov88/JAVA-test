@@ -1,0 +1,5 @@
+{
+  "name": "JavaMaster AI Tutor",
+  "description": "An interactive Java programming quiz app powered by Gemini. Features fill-in-the-blank and bug-fixing challenges with AI-simulated compilation and feedback.",
+  "requestFramePermissions": []
+}
